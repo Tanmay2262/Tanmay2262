@@ -9,10 +9,12 @@
 
 - 💬 Ask me about **NOTHNG!!!**
 
-- 📫 How to reach me : [**Linkedin**](https://www.linkedin.com/in/tanmay-ghodeswar-500a2b1b8/) &nbsp; [**Instagram**](https://www.instagram.com/tanned_in_may/) &nbsp; [**Twitter**](https://twitter.com/ghodeswartanmay)
+- 📫 Reach me on: [**Linkedin**](https://www.linkedin.com/in/tanmay-ghodeswar-500a2b1b8/) &nbsp; [**Instagram**](https://www.instagram.com/tanned_in_may/) &nbsp; [**Twitter**](https://twitter.com/ghodeswartanmay)
 
-- ⚡ Fun fact **: I love Music and Cricket**
+- ⚡ Fun fact :**Machine learning is not going to destroy Humanity**
 <br>
+
+-🖊️ Blog on Medium : [**Hyperparameter Tuning**](https://medium.com/adg-vit/hyperparameters-lets-tune-ef5abc62129f)
 
 
 <h3 align="center">🏆Trophies🏆</h3>
