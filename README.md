@@ -1,6 +1,7 @@
 <h1 align="center">Hi there👋, I'm Tanmay Ghodeswar</h1>
 <h3 align="center">A passionate Machine Learning enthusiast and exploring the realms of it.</h3>
 
+<br>
 
 - 🌱 I’m currently learning **NLP using Deep Learning**
 
