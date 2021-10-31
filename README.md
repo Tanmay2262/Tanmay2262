@@ -1,15 +1,15 @@
-<h1 align="center">Hi there👋, I'm Tanmay Ghodeswar</h1>
+<h1 align="center">Hello fellow coders👋, Tanmay Ghodeswar this side</h1>
 <h3 align="center">A passionate Machine Learning and Data Science enthusiast and exploring the realms of it.</h3>
 
 <br>
 
-- 🌱 I’m currently learning **NLP using Deep Learning**
+- 🌱 I’m currently learning **Deep Learning for NLP**
 
 - 👯 I’m looking to collaborate on **projects related to ML**
 
 - 💬 Ask me about **NOTHNG!!!**
 
-- 📫 How to reach me : [**Linkedin**](https://www.linkedin.com/in/tanmay-ghodeswar-500a2b1b8/)
+- 📫 How to reach me : [**Linkedin**](https://www.linkedin.com/in/tanmay-ghodeswar-500a2b1b8/) &nbsp; [**Instagram**](https://www.instagram.com/tanned_in_may/)
 
 - ⚡ Fun fact **: I love Music and Cricket**
 <br>
