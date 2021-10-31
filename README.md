@@ -16,7 +16,7 @@
 
 <p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=tanmay2262&margin-w=30&theme=onedark&row=1"/></p>
 <br>
-<p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=tanmay2262&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,64FFDA,64FFDA,A9EFDE,F2FFFC&count_private=true&theme=graywhite" alt="crazychickendev"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmay2262&layout=compact&show_icons=true&bg_color=0,EFFDF5,CBFFF2,64FFDA&theme=graywhite&hide_title=true" alt="crazychickendev"/> </p>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
