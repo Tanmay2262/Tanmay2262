@@ -13,7 +13,7 @@
 
 - 🖊️Blog on Medium : [**Hyperparameter Tuning**](https://medium.com/adg-vit/hyperparameters-lets-tune-ef5abc62129f)
 
-- ⚡ Fun fact :**Machine learning is not going to destroy Humanity**
+- ⚡ Fun fact : **Machine learning is not going to destroy Humanity**
 <br>
 
 <h3 align="center">🏆Trophies🏆</h3>
