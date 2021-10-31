@@ -28,7 +28,7 @@
 <br>
 
 
-<h3 align="center">Github stats</h3>
+<h3 align="center">📈Github stats📉</h3>
 
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanmay2262&margin-w=30&theme=onedark&show_icons=true&locale=en" alt="tanmay2262"></p>
@@ -38,8 +38,7 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanmay2262&margin-w=30&theme=onedark&show_icons=true&locale=en&layout=compact" alt="tanmay2262" /></p>
 <br>
 
-<h3 align="center">![ConnectWithEachOtherMrroflwafflesGIF](https://user-images.githubusercontent.com/78096599/139589505-675984f8-2128-46e7-bdeb-822bae6b838a.gif)
-Connect with me on:</h3>
+<h3 align="center">🤝Social Media handles🤝:</h3>
 <p align="center">
 <a href="https://twitter.com/@ghodeswartanmay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ghodeswartanmay" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tanmay ghodeswar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanmay ghodeswar" height="30" width="40" /></a>
