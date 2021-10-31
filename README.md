@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **NOTHNG!!!**
 
-- 📫 How to reach me : [**Linkedin**](https://www.linkedin.com/in/tanmay-ghodeswar-500a2b1b8/) &nbsp; [**Instagram**](https://www.instagram.com/tanned_in_may/)
+- 📫 How to reach me : [**Linkedin**](https://www.linkedin.com/in/tanmay-ghodeswar-500a2b1b8/) &nbsp; [**Instagram**](https://www.instagram.com/tanned_in_may/) &nbsp; [**Twitter**](https://twitter.com/ghodeswartanmay)
 
 - ⚡ Fun fact **: I love Music and Cricket**
 <br>
