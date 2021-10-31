@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋, I'm Tanmay Ghodeswar</h1>
+<h1 align="center">Hi there👋, I'm Tanmay Ghodeswar</h1>
 <h3 align="center">A passionate Machine Learning enthusiast and exploring the realms of it.</h3>
 
 - 🌱 I’m currently learning **NLP using Deep Learning**
 
-- 💬 Ask me about **ML and DL**
+- 👯 I’m looking to collaborate on **projects related to ML**
+
+- 💬 Ask me about **ANYTHNG!!!**
 
 - 📫 How to reach me **ghodeswar.tanmay22@gmail.com**
+
+- ⚡ Fun fact **: I love Music and Cricket**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
