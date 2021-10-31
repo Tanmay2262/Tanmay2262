@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **: I love Music and Cricket**
 
-<h3 align="center"🏆Trophies🏆</h3>
+<h3 align="center">🏆Trophies🏆</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanmay2262&margin-w=30&theme=onedark" alt="tanmay2262" /></a> </p>
 
 <h3 align="center">Languages and Tools:</h3>
