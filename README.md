@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **ANYTHNG!!!**
 
-- 📫 How to reach me **ghodeswar.tanmay22@gmail.com**
+- 📫 How to reach me **[here](mailto:ghodeswar.tanmay22@gmail.com)**
 
 - ⚡ Fun fact **: I love Music and Cricket**
 
