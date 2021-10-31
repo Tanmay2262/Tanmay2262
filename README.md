@@ -32,9 +32,9 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanmay2262&margin-w=30&theme=onedark&show_icons=true&locale=en" alt="tanmay2262"></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmay2262&margin-w=30&theme=onedark" alt="tanmay2262"></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmay2262&margin-w=30&theme=onedark" alt="tanmay2262"></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanmay2262&margin-w=30&theme=onedark&show_icons=true&locale=en&layout=compact" alt="tanmay2262" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanmay2262&margin-w=30&theme=onedark&show_icons=true&locale=en&layout=compact" alt="tanmay2262" /></p>
 <br>
 
 <h3 align="center">Connect with me on:</h3>
