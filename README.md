@@ -6,11 +6,13 @@
 
 - 👯 I’m looking to collaborate on **projects related to ML**
 
-- 💬 Ask me about **ANYTHNG!!!**
+- 💬 Ask me about **NOTHNG!!!**
 
 - 📫 How to reach me **ghodeswar.tanmay22@gmail.com**
 
 - ⚡ Fun fact **: I love Music and Cricket**
+<br>
+<br>
 
 <h3 align="center">🏆Trophies🏆</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanmay2262&margin-w=30&theme=onedark" alt="tanmay2262" /></a> </p>
@@ -26,9 +28,9 @@
 <h3 align="center">Github stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanmay2262&margin-w=30&theme=onedark&show_icons=true&locale=en&layout=compact" alt="tanmay2262" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanmay2262&show_icons=true&locale=en" alt="tanmay2262" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanmay2262&margin-w=30&theme=onedark&show_icons=true&locale=en" alt="tanmay2262" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmay2262&" alt="tanmay2262" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmay2262&margin-w=30&theme=onedark" alt="tanmay2262" /></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
