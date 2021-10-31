@@ -28,7 +28,7 @@
 <h3 align="center">Github stats</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanmay2262&margin-w=30&theme=onedark&show_icons=true&locale=en&layout=compact" alt="tanmay2262" /></p>
 
-<br>
+
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanmay2262&margin-w=30&theme=onedark&show_icons=true&locale=en" alt="tanmay2262" /></p>
