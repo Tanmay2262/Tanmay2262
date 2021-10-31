@@ -1,4 +1,4 @@
-<h1 align="center">Hello fellow coders👋, Tanmay Ghodeswar this side</h1>
+<h1 align="center">Hello fellow coders👋, Tanmay Ghodeswar this side,</h1>
 <h3 align="center">A passionate Machine Learning and Data Science enthusiast and exploring the realms of it.</h3>
 
 <br>
