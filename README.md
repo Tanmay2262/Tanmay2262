@@ -8,14 +8,11 @@
 
 - 💬 Ask me about **NOTHNG!!!**
 
-- 📫 How to reach me **ghodeswar.tanmay22@gmail.com**
+- 📫 How to reach me  [Linkedin](https://www.linkedin.com/in/tanmay-ghodeswar-500a2b1b8/
 
 - ⚡ Fun fact **: I love Music and Cricket**
 <br>
 
-<p align="center">
-  <img src="https://github.com/tanmay2262/tanmay2262/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
 
 <h3 align="center">🏆Trophies🏆</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanmay2262&margin-w=30&theme=onedark" alt="tanmay2262" /></a> </p>
