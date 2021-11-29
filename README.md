@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **projects related to ML**
 
-- 💬 Ask me about **NOTHNG!!!**
+- 💬 Ask me about **NOTHING!!!**
 
 - 📫 Reach me on : [**Linkedin**](https://www.linkedin.com/in/tanmay-ghodeswar-500a2b1b8/) &nbsp; [**Instagram**](https://www.instagram.com/tanned_in_may/) &nbsp; [**Twitter**](https://twitter.com/ghodeswartanmay)
 
