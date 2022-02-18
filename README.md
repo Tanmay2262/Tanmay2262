@@ -3,7 +3,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **Deep Learning for NLP**
+- 🌱 I’m currently learning **Blockchain Technology**
 
 - 👯 I’m looking to collaborate on **projects related to ML**
 
